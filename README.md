@@ -26,19 +26,19 @@ python main.py
 ## 📸 Screenshots
 
 ### Login Page
-![Login](Login_page.png)
+![Login](screenshots/Login_page.png)
 
 ### Admin Page
-![Admin](Admin_page.png)
+![Admin](screenshots/Admin_page.png)
 
 ### User Login
-![User Login](User_login.png)
+![User Login](screenshots/User_login.png)
 
 ### Hand Tracking
-![Hand Tracking](Hand_tracking.png)
+![Hand Tracking](screenshots/Hand_tracking.png)
 
 ### Writing Output
-![Result](result.png)
+![Result](screenshots/result.png)
 
 ## 🎯 Features
 - Real-time hand tracking
